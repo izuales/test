@@ -4,4 +4,8 @@ untesting
 788
 Add line
 some
+<<<<<<< HEAD
 new line update
+=======
+new line
+>>>>>>> b3404c5d20aaf002b653c9efd1a1fb9963767fb7
